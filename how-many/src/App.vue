@@ -90,6 +90,7 @@ export default {
     }
     footer {
       margin-bottom: 0;
+      display: none;
     }
   }
 </style>
