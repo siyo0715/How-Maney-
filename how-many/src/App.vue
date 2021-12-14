@@ -88,5 +88,8 @@ export default {
       width: 100%;
       margin: 15px auto 0px auto;
     }
+    footer {
+      margin-bottom: 0;
+    }
   }
 </style>
