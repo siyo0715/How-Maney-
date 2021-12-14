@@ -80,7 +80,7 @@ export default {
   footer {
     background-color:cadetblue;
     color: aliceblue;
-    padding: 25px;
+    padding: 40px 0;
   }
 
   @media screen and (max-width: 900px) {
