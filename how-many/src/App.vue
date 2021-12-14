@@ -75,7 +75,10 @@ export default {
   
   .main {
     width: 70%;
-    margin: 15px auto 15px auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
   }
   footer {
     background-color:cadetblue;
@@ -86,7 +89,10 @@ export default {
   @media screen and (max-width: 900px) {
     .main {
       width: 100%;
-      margin: 15px auto 0px auto;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      margin-left: auto;
+      margin-right: auto;
     }
     footer {
       margin-bottom: 0;
