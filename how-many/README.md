@@ -1,4 +1,4 @@
-# how-many?
+# how-maney?
 
 ## Project setup
 ```
