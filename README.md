@@ -37,4 +37,4 @@
 - 言語：JavaScript
 - フレームワーク：Vue.js
 - エディタ：Visual Studio Code
-- デプロイ：GitHub Pages
+- デプロイ：Netlify
